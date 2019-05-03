@@ -1,4 +1,4 @@
-package com.concurrency.demo.concurrent;
+package com.concurrent.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
